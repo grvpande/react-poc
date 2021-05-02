@@ -1,0 +1,10 @@
+export const FETCH_BOOKS = 'FETCH_BOOKS';
+export const FETCH_BOOKS_SUCCESS = 'FETCH_BOOKS_SUCCESS';
+
+export const SET_LOADER_TRUE = 'SET_LOADER_TRUE';
+export const SET_LOADER_FALSE = 'SET_LOADER_FALSE';
+
+export const ERROR = 'ERROR';
+
+export const SET_ACTIVE_BOOK = 'SET_ACTIVE_BOOK';
+export const SET_ACTIVE_BOOK_SUCCESS = 'SET_ACTIVE_BOOK_SUCCESS';
